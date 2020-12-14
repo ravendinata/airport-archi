@@ -1,4 +1,6 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Web Service"
-    id="id-9a938d48ce584e9095ea9897899a9d06"/>
+    id="id-9a938d48ce584e9095ea9897899a9d06"
+    documentation="This is the perspective of airport web application"
+    viewpoint="technology_usage"/>

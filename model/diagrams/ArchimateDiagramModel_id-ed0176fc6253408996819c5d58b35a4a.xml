@@ -1,4 +1,6 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Security Appliaction"
-    id="id-ed0176fc6253408996819c5d58b35a4a"/>
+    name="Security Application"
+    id="id-ed0176fc6253408996819c5d58b35a4a"
+    documentation="This is the perspective of  a group of security systems that protects the airfield and air terminal information in the airport"
+    viewpoint="application_usage"/>
