@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5dfbb3a5813b461089ce4369fc70b53c"
+    documentation="The controller's PC is connected to the local tower network so that it can exchange data with the mainframe.">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-17a47a3c44b04873875b89f354c7761c.xml#id-17a47a3c44b04873875b89f354c7761c"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-20cd571413d242789bca4548bb1a84f3.xml#id-20cd571413d242789bca4548bb1a84f3"/>
+</archimate:AssociationRelationship>

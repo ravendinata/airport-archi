@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ATC Computers"
+    id="id-17a47a3c44b04873875b89f354c7761c"
+    documentation="The main computers that displays airplane information, gate information, flight details and ground movement. Can be further divided into Departure Controller PC, Arrival Controller PC, Ground Controller PC, and so forth."/>

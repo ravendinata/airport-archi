@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bb6042f9c81d4cbabd6e3803a87ebffb"
+    documentation="The telephone communication between the tower and other stakeholders are recorded by the Blackbox.">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-6af0ea81c3524055b4d1860880bc6f9f.xml#id-6af0ea81c3524055b4d1860880bc6f9f"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-425071ddfa3c4d7d81c195cd8d130a2e.xml#id-425071ddfa3c4d7d81c195cd8d130a2e"/>
+</archimate:AssociationRelationship>

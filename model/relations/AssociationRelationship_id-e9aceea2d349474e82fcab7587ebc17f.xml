@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e9aceea2d349474e82fcab7587ebc17f"
+    documentation="Connects the sub-network into the tower's local network.">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-20cd571413d242789bca4548bb1a84f3.xml#id-20cd571413d242789bca4548bb1a84f3"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-56c5105386b24a6a805738d10de47d15.xml#id-56c5105386b24a6a805738d10de47d15"/>
+</archimate:AssociationRelationship>

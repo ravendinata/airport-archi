@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Airport Central Information System"
+    id="id-d6dcbbf62d8740cb8ee10c9a6ecd383e"
+    documentation="Airport's Central Information System that is connected to various other systems in the airport (Ex: Ground Operations, Emergency Services and etc.)."/>

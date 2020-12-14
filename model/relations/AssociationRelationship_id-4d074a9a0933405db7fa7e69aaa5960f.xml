@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4d074a9a0933405db7fa7e69aaa5960f"
+    documentation="Data is exchanged between the computers and the mainframe.">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-17a47a3c44b04873875b89f354c7761c.xml#id-17a47a3c44b04873875b89f354c7761c"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-6776b05509714836ad2aad5883a04841.xml#id-6776b05509714836ad2aad5883a04841"/>
+</archimate:AssociationRelationship>

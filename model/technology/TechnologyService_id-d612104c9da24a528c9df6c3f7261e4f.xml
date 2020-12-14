@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Airfield Equipment Control Service"
+    id="id-d612104c9da24a528c9df6c3f7261e4f"
+    documentation="The system/service that manages the airfiled equipments (airfield sensors, airstrip lighting, etc.)."/>

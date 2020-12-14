@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a0a9a33562c84e87abd82ee399fdbcb3"
+    documentation="The mainframe is attached to the network and acts as the data center for internal devices as well as external databases.">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-dc3d1e9bddfe4ef0aa3664f1d9909fcd.xml#id-dc3d1e9bddfe4ef0aa3664f1d9909fcd"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-56c5105386b24a6a805738d10de47d15.xml#id-56c5105386b24a6a805738d10de47d15"/>
+</archimate:AssociationRelationship>
