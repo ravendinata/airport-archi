@@ -1,4 +1,6 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Check-in Counter"
-    id="id-04aa9fac4f944eac93af4832d7341395"/>
+    id="id-04aa9fac4f944eac93af4832d7341395"
+    documentation="Physical devices in the check-in counter."
+    viewpoint="technology"/>

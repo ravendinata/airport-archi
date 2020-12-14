@@ -1,4 +1,6 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Database Process"
-    id="id-bfc1bbbf5e974e98b45de755b9a0ecf9"/>
+    id="id-bfc1bbbf5e974e98b45de755b9a0ecf9"
+    documentation="The perspective on the database processes across the airport."
+    viewpoint="application_usage"/>

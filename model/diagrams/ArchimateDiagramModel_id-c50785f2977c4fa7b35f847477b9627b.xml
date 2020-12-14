@@ -1,4 +1,6 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Air Traffic Control Tower"
-    id="id-c50785f2977c4fa7b35f847477b9627b"/>
+    name="Air Traffic Control"
+    id="id-c50785f2977c4fa7b35f847477b9627b"
+    documentation="Physical Devices in the Air Traffic Control Tower and the applications that aid in Air Traffic Control."
+    viewpoint="technology_usage"/>

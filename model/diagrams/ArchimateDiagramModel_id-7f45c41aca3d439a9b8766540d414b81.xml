@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Airfield Sensor Network"
     id="id-7f45c41aca3d439a9b8766540d414b81"
+    documentation="A network of sensors that are located in the airfleld area (runway, taxiway, and apron)."
     viewpoint="technology">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
