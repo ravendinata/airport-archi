@@ -1,4 +1,19 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
-    id="id-7f45c41aca3d439a9b8766540d414b81"/>
+    name="Sensor Network"
+    id="id-7f45c41aca3d439a9b8766540d414b81"
+    viewpoint="technology">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0d8c343485a24cad8ef2815c9365252c">
+    <bounds
+        x="216"
+        y="300"
+        width="168"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_id-52dbcd65cf524cb29b4f807f1530b1fd.xml#id-52dbcd65cf524cb29b4f807f1530b1fd"/>
+  </children>
+</archimate:ArchimateDiagramModel>
