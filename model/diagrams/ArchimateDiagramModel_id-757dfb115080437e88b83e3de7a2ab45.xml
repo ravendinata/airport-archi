@@ -1,4 +1,6 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Baggage Processing Application"
-    id="id-757dfb115080437e88b83e3de7a2ab45"/>
+    id="id-757dfb115080437e88b83e3de7a2ab45"
+    documentation="A set of applications that processes the baggage in the baggage processing area. Uses the sensors to identify and sort the baggages."
+    viewpoint="application_usage"/>

@@ -1,4 +1,6 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Airport Engineering Management System"
-    id="id-5f44f223ae004665a957742a20fa7f95"/>
+    id="id-5f44f223ae004665a957742a20fa7f95"
+    documentation="Services and systems that are relevant to the Airport Engineering team."
+    viewpoint="technology_usage"/>

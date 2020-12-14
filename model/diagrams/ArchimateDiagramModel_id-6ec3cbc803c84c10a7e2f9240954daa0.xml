@@ -1,4 +1,6 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Airfield Sensor Application"
-    id="id-6ec3cbc803c84c10a7e2f9240954daa0"/>
+    id="id-6ec3cbc803c84c10a7e2f9240954daa0"
+    documentation="A set of processes that receive and process various sensor data from the airfield sensors."
+    viewpoint="application_usage"/>
