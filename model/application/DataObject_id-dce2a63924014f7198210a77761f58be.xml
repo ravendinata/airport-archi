@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Backup Sensor Data Log"
+    id="id-dce2a63924014f7198210a77761f58be"
+    documentation="A backup database that logs every data in the sensors. Any event(s) caught by the sensor are logged for investigation purposes in case it is needed.&#xD;&#xA;This data object backs up the primary data log."/>

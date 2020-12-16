@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c2dc19c530334eac9af8be6f6f02a15f"
+    documentation="Connects the Airport Engineering Network into the internet.">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-01494d5748ea4da0a20e19f201a93c04.xml#id-01494d5748ea4da0a20e19f201a93c04"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-0f2c5504621a4ec1bc065e1ab38c62a6.xml#id-0f2c5504621a4ec1bc065e1ab38c62a6"/>
+</archimate:AssociationRelationship>

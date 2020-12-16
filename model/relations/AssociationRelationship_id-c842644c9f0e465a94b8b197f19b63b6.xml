@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c842644c9f0e465a94b8b197f19b63b6"
+    documentation="Interconnects the 2 mainframes to allow for synchronization of process and data as well as detection if one mainframe is down.">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-dc2acf48255845609b92ca096a6998ec.xml#id-dc2acf48255845609b92ca096a6998ec"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-ecb683bebde3464a97054db227912f46.xml#id-ecb683bebde3464a97054db227912f46"/>
+</archimate:AssociationRelationship>

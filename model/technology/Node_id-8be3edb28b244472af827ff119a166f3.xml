@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conveyor Belt Junction Sorter"
+    id="id-8be3edb28b244472af827ff119a166f3"
+    documentation="A machine that acts as the junction between conveyor belt paths and sorts the incoming baggage traffic into the right conveyor belt."/>

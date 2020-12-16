@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f7ead9819d8141bf9556d1fefd6b3b2a"
+    documentation="Data stored in the primary data log is sent to the backup data log as a redundancy tatctic.">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-a5d64c24487c4d5baddc38022f033801.xml#id-a5d64c24487c4d5baddc38022f033801"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-dce2a63924014f7198210a77761f58be.xml#id-dce2a63924014f7198210a77761f58be"/>
+</archimate:AssociationRelationship>

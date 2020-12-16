@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bag Jam Sensor"
+    id="id-d3ca4023369a44acac0bc18e44c74341"
+    documentation="A sensor that senses if a jam may have occured on the conveyor line."/>

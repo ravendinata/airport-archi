@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1e06a9beb85f4a0191848ee2eedfb673"
+    documentation="Connects the Building Maintenance Department network to the broader network.">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-4fa2571524374a228486ba500a4939ef.xml#id-4fa2571524374a228486ba500a4939ef"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-01494d5748ea4da0a20e19f201a93c04.xml#id-01494d5748ea4da0a20e19f201a93c04"/>
+</archimate:AssociationRelationship>

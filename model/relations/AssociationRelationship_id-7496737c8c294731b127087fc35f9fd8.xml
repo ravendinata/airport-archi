@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7496737c8c294731b127087fc35f9fd8"
+    documentation="Connects the Aerodrome Engineering Department network to the broader network.">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-01494d5748ea4da0a20e19f201a93c04.xml#id-01494d5748ea4da0a20e19f201a93c04"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-a399cc68517a4ce2bd1d09937bc40f4b.xml#id-a399cc68517a4ce2bd1d09937bc40f4b"/>
+</archimate:AssociationRelationship>
