@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-acce58aa0bbd42fc8c68aa1a48a2b912"
+    documentation="Connects the Blackbox to the tower local network.">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-425071ddfa3c4d7d81c195cd8d130a2e.xml#id-425071ddfa3c4d7d81c195cd8d130a2e"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-20cd571413d242789bca4548bb1a84f3.xml#id-20cd571413d242789bca4548bb1a84f3"/>
+</archimate:AssociationRelationship>

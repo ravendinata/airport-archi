@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Backup Multi Sensor Data Fusion (MSDF) Hub"
+    id="id-9a4a2f0a5dd64f89aad730acce10d8e2"
+    documentation="The backup hub/central device that combines/fuses the data from all of the sensors into usable information."/>

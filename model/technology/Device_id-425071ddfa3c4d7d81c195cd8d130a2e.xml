@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Radio Communication Blackbox"
+    id="id-425071ddfa3c4d7d81c195cd8d130a2e"
+    documentation="Records the communication happening on any communication devices. The recording is sent to the Mainframe for archival purposes in case an investigation is needed."/>

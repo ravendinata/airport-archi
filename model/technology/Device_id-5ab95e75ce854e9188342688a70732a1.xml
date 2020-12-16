@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ATC Tower Mainframe (Backup 2)"
+    id="id-5ab95e75ce854e9188342688a70732a1"
+    documentation="A backup for the Tower's mainframe. The backup mainframe is always in sync with the main mainframe and the other backup mainframe."/>

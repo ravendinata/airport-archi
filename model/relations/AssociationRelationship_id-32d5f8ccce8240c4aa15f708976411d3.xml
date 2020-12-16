@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-32d5f8ccce8240c4aa15f708976411d3"
+    documentation="Fused sensor data are sent to the transport service so that they can be transported to various other services that requires the sensor data.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-586b4c67743547ccbef909f9b764a64e.xml#id-586b4c67743547ccbef909f9b764a64e"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-ec6cdb4e1f8d4e598d1249817935aef0.xml#id-ec6cdb4e1f8d4e598d1249817935aef0"/>
+</archimate:AssociationRelationship>

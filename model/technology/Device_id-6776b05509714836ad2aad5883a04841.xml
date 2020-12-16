@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ATC Tower Mainframe"
+    id="id-6776b05509714836ad2aad5883a04841"
+    documentation="The mainframe computer that acts as the hub of the tower. The mainframe computer serves data (weather data, etc.) for the ATC computers. It also sends data to other systems in the airport (Ground Opeations, Emergency Services, etc.)."/>

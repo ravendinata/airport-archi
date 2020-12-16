@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Multi Sensor Data Fusion (MSDF) Hub"
+    id="id-eac35cdfd5c740a683cf06a784c074d3"
+    documentation="The hub/central device that combines/fuses the data from all of the sensors into usable information."/>

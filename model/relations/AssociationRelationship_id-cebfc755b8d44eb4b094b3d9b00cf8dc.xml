@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-cebfc755b8d44eb4b094b3d9b00cf8dc"
+    documentation="Sends control data (switch airstrip light on/off, etc.) to the Airfield Equipment Controller and sends processed sensor data to the ATC mainframe.">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-d612104c9da24a528c9df6c3f7261e4f.xml#id-d612104c9da24a528c9df6c3f7261e4f"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-56c5105386b24a6a805738d10de47d15.xml#id-56c5105386b24a6a805738d10de47d15"/>
+</archimate:AssociationRelationship>

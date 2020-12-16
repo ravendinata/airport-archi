@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Fence Perimeter Motion Sensor"
-    id="id-52dbcd65cf524cb29b4f807f1530b1fd"/>
+    name="Airport Traffic Sensor"
+    id="id-52dbcd65cf524cb29b4f807f1530b1fd"
+    documentation="Sensors that aid in the detection of aircrafts across the airfield movement paths. Usually placed in critical junctions to check for stop bar compliance."/>

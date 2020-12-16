@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sensor Data Receiver Service"
+    id="id-e282e296bba84f0490e7d1be60a5b66f"
+    documentation="The service (application) that receives the data sent by the airfield sensors."/>

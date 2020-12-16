@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sensor Data Log"
+    id="id-a5d64c24487c4d5baddc38022f033801"
+    documentation="A database that logs every data in the sensors. Any event(s) caught by the sensor are logged for investigation purposes in case it is needed."/>

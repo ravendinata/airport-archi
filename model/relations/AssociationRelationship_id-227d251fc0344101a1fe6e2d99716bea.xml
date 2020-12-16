@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-227d251fc0344101a1fe6e2d99716bea"
+    documentation="The data captured by the sensor is sent to the Backup Multi Sensor Data Fusion (MSDF) Hub through the gateway.">
+  <source
+      xsi:type="archimate:TechnologyCollaboration"
+      href="TechnologyCollaboration_id-6058262393214e99beba2cfa7404bd4c.xml#id-6058262393214e99beba2cfa7404bd4c"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-9a4a2f0a5dd64f89aad730acce10d8e2.xml#id-9a4a2f0a5dd64f89aad730acce10d8e2"/>
+</archimate:AssociationRelationship>

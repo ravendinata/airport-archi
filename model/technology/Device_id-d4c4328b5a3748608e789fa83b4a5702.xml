@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Airspace Monitoring System Mainframe"
+    id="id-d4c4328b5a3748608e789fa83b4a5702"
+    documentation="The mainframe computer that acts as a hub for the radar, transponder, and ATCRBS (Air Traffic Control Radar Beacon System). "/>

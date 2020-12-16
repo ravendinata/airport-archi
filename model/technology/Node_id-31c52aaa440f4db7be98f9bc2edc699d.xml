@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Multilateration (MLat) Sensor"
+    id="id-31c52aaa440f4db7be98f9bc2edc699d"
+    documentation="A sensor that helps both ground and airspace surveillance where the usage of radar is not practical."/>

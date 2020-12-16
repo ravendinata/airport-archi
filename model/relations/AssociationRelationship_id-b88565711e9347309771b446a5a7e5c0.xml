@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b88565711e9347309771b446a5a7e5c0"
+    documentation="The radio communication ">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-17a47a3c44b04873875b89f354c7761c.xml#id-17a47a3c44b04873875b89f354c7761c"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-797f9d00cff144cb931bbe30a3f5d928.xml#id-797f9d00cff144cb931bbe30a3f5d928"/>
+</archimate:AssociationRelationship>

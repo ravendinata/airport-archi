@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sensor Data Fusion Service"
+    id="id-586b4c67743547ccbef909f9b764a64e"
+    documentation="The service that fuses/combines the translated data into a more robust and advanced data that is even more useful."/>

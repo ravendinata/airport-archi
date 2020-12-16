@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-750812c5f2b249f2bbd143cfad6216ab"
+    documentation="This backup mainframe syncs with the main mainframe through the network.">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-6776b05509714836ad2aad5883a04841.xml#id-6776b05509714836ad2aad5883a04841"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-56c5105386b24a6a805738d10de47d15.xml#id-56c5105386b24a6a805738d10de47d15"/>
+</archimate:AssociationRelationship>

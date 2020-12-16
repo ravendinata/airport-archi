@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-284c556740b346b19b58f6d4730997b4"
+    documentation="Raw sensor data is stored in the sensor data log for possible investigation or audit uses. The raw data is also stored along with the translated data to allow for correction in case the translated data is mistranslated or corrupted.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-e282e296bba84f0490e7d1be60a5b66f.xml#id-e282e296bba84f0490e7d1be60a5b66f"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-a5d64c24487c4d5baddc38022f033801.xml#id-a5d64c24487c4d5baddc38022f033801"/>
+</archimate:AssociationRelationship>

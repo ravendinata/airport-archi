@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-98a1c8c70d0043acb257a516620a72d2"
+    documentation="Raw sensor data recieved by the receiver service is sent to the translation service to be translated into usable information.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-e282e296bba84f0490e7d1be60a5b66f.xml#id-e282e296bba84f0490e7d1be60a5b66f"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-abad1525a3774c169e9c10038aa156dd.xml#id-abad1525a3774c169e9c10038aa156dd"/>
+</archimate:AssociationRelationship>

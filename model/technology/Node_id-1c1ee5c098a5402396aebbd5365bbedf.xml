@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Visual Detection Module"
+    id="id-1c1ee5c098a5402396aebbd5365bbedf"
+    documentation="A sensor that uses camera feed to visually detect and identify an aircraft."/>
