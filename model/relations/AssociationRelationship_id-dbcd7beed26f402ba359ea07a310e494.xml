@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-dbcd7beed26f402ba359ea07a310e494"
+    documentation="Fused sensor data is also stored in the data log for possible audit or investigation uses when needed.">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-a5d64c24487c4d5baddc38022f033801.xml#id-a5d64c24487c4d5baddc38022f033801"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-586b4c67743547ccbef909f9b764a64e.xml#id-586b4c67743547ccbef909f9b764a64e"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-97d0f054753c4789a88378669c46f1e8"
+    documentation="The equipment control mainframe is directly connected to the gateway for control puposes (turn an equipment on/off, etc.).&#xD;&#xA;Note that sensor data does not go thorugh this connection.">
+  <source
+      xsi:type="archimate:TechnologyCollaboration"
+      href="TechnologyCollaboration_id-6058262393214e99beba2cfa7404bd4c.xml#id-6058262393214e99beba2cfa7404bd4c"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-b5c36d0c5eb74759bb0b57ab6788d9cd.xml#id-b5c36d0c5eb74759bb0b57ab6788d9cd"/>
+</archimate:AssociationRelationship>

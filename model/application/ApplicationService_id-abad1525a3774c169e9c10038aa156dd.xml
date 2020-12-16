@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sensor Data Translation Service"
+    id="id-abad1525a3774c169e9c10038aa156dd"
+    documentation="The service that helps translate the raw sensor data into usable information for the air traffic controllers."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sensor Data Transport Service"
+    id="id-ec6cdb4e1f8d4e598d1249817935aef0"
+    documentation="The service that helps transport the sensor data into a central information hub that is accessible by the airport staff."/>

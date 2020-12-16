@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-070ca75a061e4de584796eaceb840723"
+    documentation="Fused sensor data is sent to the control mainframe so that the data can be shared from the sensor network to the entire airport network.">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-9a4a2f0a5dd64f89aad730acce10d8e2.xml#id-9a4a2f0a5dd64f89aad730acce10d8e2"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-b5c36d0c5eb74759bb0b57ab6788d9cd.xml#id-b5c36d0c5eb74759bb0b57ab6788d9cd"/>
+</archimate:AssociationRelationship>

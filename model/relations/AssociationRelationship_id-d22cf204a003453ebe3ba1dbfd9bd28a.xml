@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d22cf204a003453ebe3ba1dbfd9bd28a"
+    documentation="Translated sensor data are sent to the data fusion service so that they can be fused into a more advanced information set.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-abad1525a3774c169e9c10038aa156dd.xml#id-abad1525a3774c169e9c10038aa156dd"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-586b4c67743547ccbef909f9b764a64e.xml#id-586b4c67743547ccbef909f9b764a64e"/>
+</archimate:AssociationRelationship>
