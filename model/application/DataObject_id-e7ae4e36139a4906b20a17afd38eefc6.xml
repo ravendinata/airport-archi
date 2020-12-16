@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Data Log"
+    id="id-e7ae4e36139a4906b20a17afd38eefc6"
+    documentation="This is the security data that is saved to be further investigated by the airport or data auditing purposes"/>

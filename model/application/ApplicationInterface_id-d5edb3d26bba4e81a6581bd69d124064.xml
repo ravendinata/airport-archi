@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Air traffic map interface"
+    id="id-d5edb3d26bba4e81a6581bd69d124064"
+    documentation="This is the API for air traffic map application that is linked to the airport web service"/>

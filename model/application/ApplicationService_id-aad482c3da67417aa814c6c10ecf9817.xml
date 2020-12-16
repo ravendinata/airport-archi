@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Airport data processing application"
+    id="id-aad482c3da67417aa814c6c10ecf9817"
+    documentation="Application to process airport data after the object and its location has been detected"/>

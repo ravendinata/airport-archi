@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Airport Information Database"
+    id="id-768f544b1a514e5f8b6b8bc394464791"
+    documentation="The database that stores the flight data (destination, gate, arrival time, aircraft, flight ID)"/>

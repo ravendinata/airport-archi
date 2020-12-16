@@ -1,6 +1,44 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Navigational Aid Network"
     id="id-9cab7a3ff50a4f5c8e2c89d48821feae"
     documentation="This is the perspective of navigation aid network"
-    viewpoint="technology"/>
+    viewpoint="technology">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5fcf3c8e51af41bd9e00041e0e2d8ff2">
+    <bounds
+        x="228"
+        y="36"
+        width="157"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyCollaboration"
+        href="TechnologyCollaboration_id-1e280c0380954e63954e5d503bb8e3c2.xml#id-1e280c0380954e63954e5d503bb8e3c2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0ea4e0560cd7440e8ab9a05ebaf0bf88">
+    <bounds
+        x="432"
+        y="36"
+        width="145"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyCollaboration"
+        href="TechnologyCollaboration_id-333e2cd160294c7d894bcebe0de27213.xml#id-333e2cd160294c7d894bcebe0de27213"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-af418712e5a94475a459f0d8213e668b">
+    <bounds
+        x="624"
+        y="36"
+        width="145"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyCollaboration"
+        href="TechnologyCollaboration_id-10ad921b2a9a40d4b6c02ecea3cb0ec5.xml#id-10ad921b2a9a40d4b6c02ecea3cb0ec5"/>
+  </children>
+</archimate:ArchimateDiagramModel>

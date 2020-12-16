@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Airport central information system"
+    id="id-45a12568fe05427b8660409a6e6c5236"
+    documentation="This the the application that provides the central airport information (flight data, facilities location, etc)"/>

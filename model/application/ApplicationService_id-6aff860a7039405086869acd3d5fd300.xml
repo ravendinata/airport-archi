@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Airport web service"
+    id="id-6aff860a7039405086869acd3d5fd300"
+    documentation="This is the application that provides the service that is needed by airport website users"/>

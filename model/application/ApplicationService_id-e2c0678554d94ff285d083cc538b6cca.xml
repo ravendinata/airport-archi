@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Air traffic map application"
+    id="id-e2c0678554d94ff285d083cc538b6cca"
+    documentation="This is the  application that provides the air traffic and the air map in the world"/>

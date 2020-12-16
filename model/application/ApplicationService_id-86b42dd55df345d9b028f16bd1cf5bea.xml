@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Main building power management application"
+    id="id-86b42dd55df345d9b028f16bd1cf5bea"
+    documentation="This is the application that manages the terminal power. The critical terminal system is managed by the critical system power management application and the basic system is managed by the power plant management application."/>
