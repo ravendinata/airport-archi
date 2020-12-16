@@ -1,0 +1,5 @@
+<archimate:ApplicationInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Power Management Application"
+    id="id-cecb13251d2c43cabc0c68ec12c500c3"
+    documentation="This is the application to manage the airport power plant to different systems and nodes"/>

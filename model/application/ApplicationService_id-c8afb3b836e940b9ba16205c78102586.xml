@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Airport data encryption application"
+    id="id-c8afb3b836e940b9ba16205c78102586"
+    documentation="Application to encrypt the collected data before the data is routed to the detector"/>

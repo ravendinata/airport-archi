@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ATC Tower Power Management Application"
+    id="id-e7e60d2ae5bb4f39a9d5ef730be38d50"
+    documentation="This is the application that manages the ATC power"/>

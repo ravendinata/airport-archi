@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Weather service interface"
+    id="id-2c795aef27814dfa83a68ec5490daa9a"
+    documentation="This is the API for displaying weather  in the airport website that is linked to the airport web service"/>

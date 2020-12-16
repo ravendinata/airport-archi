@@ -1,0 +1,5 @@
+<archimate:TechnologyCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Airport critical systems"
+    id="id-084ebecb50e4433cb9dec3c69800161e"
+    documentation="The critical systems in the airport that must always be activated (navigation aid systems, security systems, etc)"/>

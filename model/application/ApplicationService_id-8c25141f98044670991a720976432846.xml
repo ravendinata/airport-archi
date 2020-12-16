@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Object detector application"
+    id="id-8c25141f98044670991a720976432846"
+    documentation="Application to detect any objects and its location in the airport (can be luggage or human bodies)"/>

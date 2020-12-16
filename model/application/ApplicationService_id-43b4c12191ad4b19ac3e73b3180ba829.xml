@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Air traffic map service provider"
+    id="id-43b4c12191ad4b19ac3e73b3180ba829"
+    documentation="This is the air traffic map  provider to the air traffic map API"/>

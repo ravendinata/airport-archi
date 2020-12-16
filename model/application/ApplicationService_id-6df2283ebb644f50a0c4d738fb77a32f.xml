@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Critical system power management application"
+    id="id-6df2283ebb644f50a0c4d738fb77a32f"
+    documentation="This is the application that manages the critical systems' power"/>

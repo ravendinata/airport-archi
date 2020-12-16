@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Weather display application"
+    id="id-71bae7b53e37431a96357d4967bf9cd4"
+    documentation="This is the application that provides the weather data in the airport"/>

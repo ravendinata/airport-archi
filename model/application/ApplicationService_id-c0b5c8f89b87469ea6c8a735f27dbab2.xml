@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Weather service provider"
+    id="id-c0b5c8f89b87469ea6c8a735f27dbab2"
+    documentation="This is the weather service provider to the weather API"/>
