@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Baggage Processing System Mainframe (Backup)"
+    id="id-ecb683bebde3464a97054db227912f46"
+    documentation="A backup mainframe that controls the baggage handling machineries."/>

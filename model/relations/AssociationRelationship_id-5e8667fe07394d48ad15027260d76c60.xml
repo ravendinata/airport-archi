@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5e8667fe07394d48ad15027260d76c60"
+    documentation="Interconnects PCs in the Aerodrome Engineering Department office and to the router that connects to the broader network.">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-43d55a72b00446659cfc78054584cdda.xml#id-43d55a72b00446659cfc78054584cdda"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-a399cc68517a4ce2bd1d09937bc40f4b.xml#id-a399cc68517a4ce2bd1d09937bc40f4b"/>
+</archimate:AssociationRelationship>

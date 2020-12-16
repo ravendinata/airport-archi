@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e17b12271133443daeb265ed3dd87bc8"
+    documentation="Data from the sensors are sent to the processing system mainframes through the gateway.">
+  <source
+      xsi:type="archimate:TechnologyCollaboration"
+      href="TechnologyCollaboration_id-437e63376f954c5f903627ba37e8eeb9.xml#id-437e63376f954c5f903627ba37e8eeb9"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-a05f9218851b4132891070a64e4eec37.xml#id-a05f9218851b4132891070a64e4eec37"/>
+</archimate:AssociationRelationship>

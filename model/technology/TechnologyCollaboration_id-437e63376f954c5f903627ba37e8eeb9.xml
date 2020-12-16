@@ -1,0 +1,5 @@
+<archimate:TechnologyCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gateway"
+    id="id-437e63376f954c5f903627ba37e8eeb9"
+    documentation="A gateway that interfaces the connection between the Baggage Processing System mainframe and the sensors."/>

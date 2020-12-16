@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-397cf953d57e4f88a1a2d2b13e5f3e5a"
+    documentation="Connects the Airport Engineering network to the Airport Central Information System that resides in the Airport Main Server.">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-01494d5748ea4da0a20e19f201a93c04.xml#id-01494d5748ea4da0a20e19f201a93c04"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-034836ae3e974df990646d32ea10f44f.xml#id-034836ae3e974df990646d32ea10f44f"/>
+</archimate:AssociationRelationship>

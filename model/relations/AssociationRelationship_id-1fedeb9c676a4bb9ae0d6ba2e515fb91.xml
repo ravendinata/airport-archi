@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1fedeb9c676a4bb9ae0d6ba2e515fb91"
+    documentation="Connects the Aerodrome Engineering network to the Equipment Control Mainframe where they can access the Airfiled Equipment Control Service to control equipments.">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-01494d5748ea4da0a20e19f201a93c04.xml#id-01494d5748ea4da0a20e19f201a93c04"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-7bbe2f2ba64f4c2ab797b5813936105b.xml#id-7bbe2f2ba64f4c2ab797b5813936105b"/>
+</archimate:AssociationRelationship>
