@@ -1,4 +1,5 @@
 <archimate:TechnologyCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Airfield Beacon"
-    id="id-1e280c0380954e63954e5d503bb8e3c2"/>
+    id="id-1e280c0380954e63954e5d503bb8e3c2"
+    documentation="The runway beacon to guide the landing process"/>
