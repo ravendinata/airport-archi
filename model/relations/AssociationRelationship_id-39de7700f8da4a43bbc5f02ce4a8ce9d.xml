@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-39de7700f8da4a43bbc5f02ce4a8ce9d"
+    documentation="The Baggage Routing-Sorting Application looks up for the best route for a baggage to travel from one point to another from the Routing Table.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-34523636a3a74163ae4b14bdd156c35f.xml#id-34523636a3a74163ae4b14bdd156c35f"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-f44ff12fa2424c81b401dfb3192ffaeb.xml#id-f44ff12fa2424c81b401dfb3192ffaeb"/>
+</archimate:AssociationRelationship>

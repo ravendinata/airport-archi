@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-40230975d4384ea8b1e3184555a47dcd"
+    documentation="The Central Information System retrieves data from the Immigration Office Database.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-797b2ae952fd4daea8268cade7f6594b.xml#id-797b2ae952fd4daea8268cade7f6594b"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-83ab2de1eb3743e5a70152140aeb1fa0.xml#id-83ab2de1eb3743e5a70152140aeb1fa0"/>
+</archimate:AssociationRelationship>

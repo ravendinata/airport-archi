@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e30596e4f6744cb6834701e308b9bff0"
+    documentation="Data is exchanged between the Central Information System and the Backup Database.">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-90bd33269d9b4967b51e0fa098b2fea9.xml#id-90bd33269d9b4967b51e0fa098b2fea9"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-797b2ae952fd4daea8268cade7f6594b.xml#id-797b2ae952fd4daea8268cade7f6594b"/>
+</archimate:AssociationRelationship>

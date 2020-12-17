@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a0523bc6d0374d01a8291e62347bebb2"
+    documentation="The Central Information System retrieves (and possibly sends) data from the Airline Database.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-797b2ae952fd4daea8268cade7f6594b.xml#id-797b2ae952fd4daea8268cade7f6594b"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-576cdcb90fc54f83b8ff43644bb10d56.xml#id-576cdcb90fc54f83b8ff43644bb10d56"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Airport Main Server"
+    id="id-47cd7b6d886e412d89ecbbe9c47f4f1b"
+    documentation="The airport's main sever. The Central Information System resides in this device."/>

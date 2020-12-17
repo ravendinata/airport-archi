@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0237a40536ce40358c8b975e30a4e091"
+    documentation="Sensor Data received from the on-site sensor is sent to the Data Processing Application to be analysed.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-61807957b9f74499b20fb36ec71aca99.xml#id-61807957b9f74499b20fb36ec71aca99"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-f7e9939a80e146c5b56d16bb3caea3db.xml#id-f7e9939a80e146c5b56d16bb3caea3db"/>
+</archimate:AssociationRelationship>

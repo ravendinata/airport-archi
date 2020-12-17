@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Airlines Database"
+    id="id-576cdcb90fc54f83b8ff43644bb10d56"
+    documentation="An airline's database. May be used in Check-in gates where the computer is provided by the Airport Operator but the airline would need access to its own database to check passengers in."/>

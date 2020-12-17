@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sensor Data Receiver Application"
+    id="id-61807957b9f74499b20fb36ec71aca99"
+    documentation="This application receives the sensor data from the on-site sensors to be further processed."/>

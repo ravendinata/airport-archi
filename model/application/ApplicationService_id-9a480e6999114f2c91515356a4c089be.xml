@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conveyor Belt Controller Application"
+    id="id-9a480e6999114f2c91515356a4c089be"
+    documentation="This application controls the conveyor belts only. It controls the operation of the machine such as turning it on/off and/or changing the belt speed."/>
