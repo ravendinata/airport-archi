@@ -6,6 +6,16 @@
     documentation="This is the perspective of navigation aid network"
     viewpoint="technology">
   <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-0475cc4c6e6b4804b7782ae38459e874"
+      textAlignment="1">
+    <bounds
+        x="102"
+        y="102"
+        width="181"
+        height="397"/>
+  </children>
+  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5fcf3c8e51af41bd9e00041e0e2d8ff2">
     <sourceConnections
@@ -18,8 +28,8 @@
           href="AssociationRelationship_id-2d03bb911cab4b668ba134c6f4829cef.xml#id-2d03bb911cab4b668ba134c6f4829cef"/>
     </sourceConnections>
     <bounds
-        x="108"
-        y="114"
+        x="120"
+        y="126"
         width="145"
         height="85"/>
     <archimateElement
@@ -39,8 +49,8 @@
           href="AssociationRelationship_id-a28d7dbef1e44e3395b0d47892637e53.xml#id-a28d7dbef1e44e3395b0d47892637e53"/>
     </sourceConnections>
     <bounds
-        x="108"
-        y="246"
+        x="120"
+        y="258"
         width="145"
         height="85"/>
     <archimateElement
@@ -60,8 +70,8 @@
           href="AssociationRelationship_id-0b46c65a364f4c56becd1aa3bd498176.xml#id-0b46c65a364f4c56becd1aa3bd498176"/>
     </sourceConnections>
     <bounds
-        x="108"
-        y="390"
+        x="120"
+        y="402"
         width="145"
         height="85"/>
     <archimateElement
@@ -82,8 +92,8 @@
           href="AssociationRelationship_id-34f9057b981a4c0eb013633b1a01e274.xml#id-34f9057b981a4c0eb013633b1a01e274"/>
     </sourceConnections>
     <bounds
-        x="324"
-        y="138"
+        x="336"
+        y="150"
         width="205"
         height="301"/>
     <archimateElement
@@ -104,8 +114,8 @@
           href="AssignmentRelationship_id-4aaa3f62691743419c8825fc5e21f56a.xml#id-4aaa3f62691743419c8825fc5e21f56a"/>
     </sourceConnections>
     <bounds
-        x="648"
-        y="180"
+        x="660"
+        y="192"
         width="241"
         height="217"/>
     <children
