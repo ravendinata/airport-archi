@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Airfield Equipment Control Service"
-    id="id-92e91c4123964785a4bc831d03217b29"/>
+    id="id-92e91c4123964785a4bc831d03217b29"
+    documentation="The service that controls the airfield equipment"/>

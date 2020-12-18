@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Equipment Control Mainframe"
+    id="id-8e2b8125e52c4e25b46a2f5521907b4f"
+    documentation="A mainframe that shares the sensor data from the sensor network into the airport network. It also controls airfield equipments, such as: turning equipments on/off, calibrating equipments, and etc.&#xD;&#xA;The Equipment Control Service included in other views resides in this mainframe."/>
