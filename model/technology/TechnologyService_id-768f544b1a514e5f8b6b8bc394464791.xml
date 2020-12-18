@@ -1,5 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Airport Information Database"
+    name="Terminal Information Systems Controller"
     id="id-768f544b1a514e5f8b6b8bc394464791"
-    documentation="The database that stores the flight data (destination, gate, arrival time, aircraft, flight ID)"/>
+    documentation="A tool that controls the display servers and the kiosks. The tool also relays data from the central database into the information devices."/>

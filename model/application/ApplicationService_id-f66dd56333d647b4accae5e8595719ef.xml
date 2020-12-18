@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Border Control Information System"
+    id="id-f66dd56333d647b4accae5e8595719ef"
+    documentation="A sub-system that handles border control operations. This sub-system is part of the Airport Central Information System but it is also connected to the Immigration Office Database."/>

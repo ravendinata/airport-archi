@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terminal Information Systems Controller"
+    id="id-c37508e0e767485d848a10152f7d6589"
+    documentation="A tool that relays information from the central database to the terminal flight information display and information kiosks."/>

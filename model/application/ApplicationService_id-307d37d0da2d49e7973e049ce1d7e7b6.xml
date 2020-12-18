@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Baggage Processing Application"
+    id="id-307d37d0da2d49e7973e049ce1d7e7b6"
+    documentation="A sub-system that handles baggage processing."/>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-efadca2d5a0b4a48a3422ba757a283ef"
+    documentation="The Display System is controlled by the display server. The display server sends data to the tertiary display system.">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-0a7c1229142a4b2e91f2185a14f650dd.xml#id-0a7c1229142a4b2e91f2185a14f650dd"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-7cc6da84785c49b9a9266245f4a18d2c.xml#id-7cc6da84785c49b9a9266245f4a18d2c"/>
+</archimate:AssociationRelationship>

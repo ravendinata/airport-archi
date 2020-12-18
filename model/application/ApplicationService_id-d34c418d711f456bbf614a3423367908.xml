@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Building Maintenance and Monitoring System"
+    id="id-d34c418d711f456bbf614a3423367908"
+    documentation="A sub-system that acts as a building maintenance and monitoring information system. All requests for maintenance can be performed through this system. Buildings can also be monitored using this system."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Airfield Sensor Application"
+    id="id-d2d498cfc0b04b72a0dc5ed257957c19"
+    documentation="A set of applications that manages sensor data from the airfield sensors."/>

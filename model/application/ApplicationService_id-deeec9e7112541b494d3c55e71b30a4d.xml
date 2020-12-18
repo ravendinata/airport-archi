@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catering Services Management System"
+    id="id-deeec9e7112541b494d3c55e71b30a4d"
+    documentation="A sub-system that is used by the catering services to track airline's orders."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ground Operations Management Tool"
+    id="id-c0f46eedabc149bdad270ea2a892f56c"
+    documentation="A tool that helps the ground operation crews monitor jobs in different gates."/>

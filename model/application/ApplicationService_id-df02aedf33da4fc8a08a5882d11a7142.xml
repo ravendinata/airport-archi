@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flight Operations Management Tool"
+    id="id-df02aedf33da4fc8a08a5882d11a7142"
+    documentation="A tool that helps the ATC manage flight operations be it on ground or in the air space."/>

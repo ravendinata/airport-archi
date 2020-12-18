@@ -1,5 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gate Navigation Kiosks"
+    name="Terminal Information Kiosks"
     id="id-d19eb335f63448669eb33f14c9cd937d"
     documentation="The kiosk that is used to navigate the user to the specific gates based on the scanned ticket"/>

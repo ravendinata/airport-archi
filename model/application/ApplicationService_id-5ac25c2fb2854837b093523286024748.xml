@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Passenger Check-in System"
+    id="id-5ac25c2fb2854837b093523286024748"
+    documentation="A sub-system that handles passenger check-in processing."/>
