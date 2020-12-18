@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-43144bd8073a4597b5f31e7f99dc8f6b"
+    documentation="The information and position of the baggage is sent to the Baggage Routing Application so that the baggage can be properly routed to its destination.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-ec5311e38d57490e8e14cdda9471f002.xml#id-ec5311e38d57490e8e14cdda9471f002"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-34523636a3a74163ae4b14bdd156c35f.xml#id-34523636a3a74163ae4b14bdd156c35f"/>
+</archimate:AssociationRelationship>

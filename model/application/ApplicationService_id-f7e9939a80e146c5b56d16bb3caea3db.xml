@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sensor Data Processing Application"
+    id="id-f7e9939a80e146c5b56d16bb3caea3db"
+    documentation="This application analyses sensor data to check if there might be problems on the conveyor line."/>

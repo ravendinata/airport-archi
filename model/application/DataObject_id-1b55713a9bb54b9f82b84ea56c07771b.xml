@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Baggage Information Database"
+    id="id-1b55713a9bb54b9f82b84ea56c07771b"
+    documentation="A database that contains all informations about the baggage such as: Destination Country, Flight Gate, Flight Number, Weight, and etc."/>

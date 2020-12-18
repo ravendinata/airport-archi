@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bf26876e09094cf799324d36ecefad91"
+    documentation="Interconnects PCs in the Building Maintenance Department office and to the router that connects to the broader network.">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-fc62fce38651421094536f00934977c6.xml#id-fc62fce38651421094536f00934977c6"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-ad61b2809e81466cb9384ae660029aa3.xml#id-ad61b2809e81466cb9384ae660029aa3"/>
+</archimate:AssociationRelationship>

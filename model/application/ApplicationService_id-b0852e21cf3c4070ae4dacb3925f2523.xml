@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Baggage Positioning Application"
+    id="id-b0852e21cf3c4070ae4dacb3925f2523"
+    documentation="The application that determines the position of a baggage based on where the baggage is scanned and identified at."/>

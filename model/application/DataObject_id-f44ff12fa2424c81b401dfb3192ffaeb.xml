@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conveyor Belt Routing Table"
+    id="id-f44ff12fa2424c81b401dfb3192ffaeb"
+    documentation="A routing table (map) of the conveyor belt network. Contains detailed informations about how to transport a baggage from a point in the airport to another point."/>

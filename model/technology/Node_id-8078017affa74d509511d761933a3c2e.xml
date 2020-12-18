@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Router"
+    id="id-8078017affa74d509511d761933a3c2e"
+    documentation="Routes data to internal/external devices."/>

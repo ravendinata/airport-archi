@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-690064efd73441608f92eb0116c2f30d"
+    documentation="The IP Telephones are connected to the broader network through the router via the switch. ">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-02817ef8d3ff4139bacf8ad8d74e57ee.xml#id-02817ef8d3ff4139bacf8ad8d74e57ee"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-35ff9fbbfaff4cc9be971d0b1a9f7ca1.xml#id-35ff9fbbfaff4cc9be971d0b1a9f7ca1"/>
+</archimate:AssociationRelationship>

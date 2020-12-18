@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conveyor Belt Junction Sorter Controller Application"
+    id="id-e552577f0f504310ba1b8392b08f4aa4"
+    documentation="This application controls the conveyor belt junction sorter only. It controls where an item entering the junction should exit from (turn left, trun right, straight on, etc)."/>

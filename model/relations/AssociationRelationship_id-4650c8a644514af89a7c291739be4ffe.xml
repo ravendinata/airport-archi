@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4650c8a644514af89a7c291739be4ffe"
+    documentation="Control data is sent by the Routing-Sorting Application to the Junction Sorter Controller in order to route the baggage that passes through the Junction Sorter being controlled.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-e552577f0f504310ba1b8392b08f4aa4.xml#id-e552577f0f504310ba1b8392b08f4aa4"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-34523636a3a74163ae4b14bdd156c35f.xml#id-34523636a3a74163ae4b14bdd156c35f"/>
+</archimate:AssociationRelationship>
