@@ -76,7 +76,7 @@
       targetConnections="id-b30bcadb138b4f26b4c95ac0a30d6e63 id-7f0419a3c0fd4faeaa770884b99fa4c9">
     <bounds
         x="720"
-        y="348"
+        y="360"
         width="169"
         height="97"/>
     <archimateElement
@@ -170,7 +170,7 @@
     </sourceConnections>
     <bounds
         x="720"
-        y="492"
+        y="504"
         width="169"
         height="97"/>
     <archimateElement
@@ -183,7 +183,7 @@
       targetConnections="id-974a020eb13f4e17bb12e70494557d89">
     <bounds
         x="420"
-        y="348"
+        y="360"
         width="181"
         height="97"/>
     <archimateElement
