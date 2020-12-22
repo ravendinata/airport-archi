@@ -6,16 +6,6 @@
     documentation="This is the perspective of navigation aid network"
     viewpoint="technology">
   <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="id-0475cc4c6e6b4804b7782ae38459e874"
-      textAlignment="1">
-    <bounds
-        x="102"
-        y="102"
-        width="181"
-        height="397"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5fcf3c8e51af41bd9e00041e0e2d8ff2">
     <sourceConnections
