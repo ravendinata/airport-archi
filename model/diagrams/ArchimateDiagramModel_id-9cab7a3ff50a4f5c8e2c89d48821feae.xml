@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Navigational Aid Network"
+    name="Visual Navigational Aid Network"
     id="id-9cab7a3ff50a4f5c8e2c89d48821feae"
-    documentation="This is the perspective of navigation aid network"
+    documentation="This is the perspective of visual navigation aid network"
     viewpoint="technology">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -19,8 +19,8 @@
           href="AssociationRelationship_id-a859bb7e54f34d299fa3321d30c7f4f1.xml#id-a859bb7e54f34d299fa3321d30c7f4f1"/>
     </sourceConnections>
     <bounds
-        x="264"
-        y="36"
+        x="480"
+        y="120"
         width="157"
         height="109"/>
     <archimateElement
@@ -41,8 +41,8 @@
           href="AssociationRelationship_id-47753f76d01e4288a42c1cf13d6171ba.xml#id-47753f76d01e4288a42c1cf13d6171ba"/>
     </sourceConnections>
     <bounds
-        x="756"
-        y="216"
+        x="972"
+        y="300"
         width="157"
         height="109"/>
     <archimateElement
@@ -63,8 +63,8 @@
           href="AssociationRelationship_id-ece5e70a62344d3c96acc8dc4b07323b.xml#id-ece5e70a62344d3c96acc8dc4b07323b"/>
     </sourceConnections>
     <bounds
-        x="504"
-        y="36"
+        x="720"
+        y="120"
         width="157"
         height="109"/>
     <archimateElement
@@ -85,8 +85,8 @@
           href="AssociationRelationship_id-0afe5bd29f444f76929072dffdba5da8.xml#id-0afe5bd29f444f76929072dffdba5da8"/>
     </sourceConnections>
     <bounds
-        x="756"
-        y="36"
+        x="972"
+        y="120"
         width="157"
         height="109"/>
     <archimateElement
@@ -115,8 +115,8 @@
           href="AssociationRelationship_id-5d05a31c571048e3ae45911abde9121b.xml#id-5d05a31c571048e3ae45911abde9121b"/>
     </sourceConnections>
     <bounds
-        x="36"
-        y="36"
+        x="252"
+        y="120"
         width="157"
         height="109"/>
     <archimateElement
@@ -128,8 +128,8 @@
       id="id-e58512728c594315a440775a99551663"
       targetConnections="id-b9c0e4daa2e4436c8dd0357d9506b6bd id-8d66726be64949da9def6b08109dc2a5">
     <bounds
-        x="504"
-        y="216"
+        x="720"
+        y="300"
         width="157"
         height="109"/>
     <archimateElement
@@ -150,8 +150,8 @@
           href="AssociationRelationship_id-a0a74f7727864772a65d23f0d8bea4f7.xml#id-a0a74f7727864772a65d23f0d8bea4f7"/>
     </sourceConnections>
     <bounds
-        x="18"
-        y="204"
+        x="234"
+        y="288"
         width="193"
         height="169"/>
     <children
